@@ -1,0 +1,21 @@
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+
+
+main {
+    display:flex;
+}
+
+.list {
+    background-color: red;
+    flex: 5;
+}
+
+.info {
+    background-color: blue;
+    flex: 3;
+}
